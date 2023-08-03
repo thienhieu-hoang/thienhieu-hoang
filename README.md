@@ -1,7 +1,7 @@
 ### Hi there 👋
 My name is Hoang Thien Hieu.
-I'm from Hanoi, Viet Nam.
-Now I'm studying Master in Wireless Communication in Montréal, Canada 
+❤ I'm from Hanoi, Viet Nam.
+📫 Now I'm studying Master's in Wireless Communication in Montréal, Canada. 
 <!--
 **thienhieu-hoang/thienhieu-hoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
