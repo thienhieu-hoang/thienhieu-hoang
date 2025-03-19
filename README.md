@@ -3,7 +3,7 @@ My name is Hoang Thien Hieu.
 
 ❤ I'm from Hanoi, Viet Nam 🌼
 
-📫 Now I'm studying Master's in Wireless Communication in Montréal, Canada 🍁
+📫 Now I'm a PhD student in Wireless Communication in Montréal, Canada 🍁
 
 My site: https://sites.google.com/view/thien-hieu-hoang/home
 <!--
